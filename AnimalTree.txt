@@ -1,0 +1,23 @@
+ Is it a mammal?
+Y Does it have hooves?
+N Is it a reptile?
+YY Does it give milk?
+YN Is it a carnivore?
+NY Crocodile
+NN Does it have feathers?
+YYY Cow
+YYN Horse
+YNY Is it in the dog family?
+YNN Mouse
+NNY parrot
+NNN does it colorful wings?
+YNYY Dog
+YNYN is it the king of the jungle?
+NNNY butterfly
+NNNN Does it swim?
+YNYNY Lion
+YNYNN Cat
+NNNNY Does it eat humans?
+NNNNN Mosquito
+NNNNYY killer whale
+NNNNYN dolphin

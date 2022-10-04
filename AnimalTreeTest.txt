@@ -1,0 +1,17 @@
+ Is it a mammal? 
+Y Is it a small mammal? 
+N Is it a reptile? 
+YY Can you keep it as a pet?
+YN does it have a mane?
+NY snake
+NN Does it swim?
+YYY does it run?
+YYN mouse
+YNY horse
+YNN bear
+NNY fish
+NNN Parrot
+YYYY Dog
+YYYN Does it like catching mice?
+YYYNY cat
+YYYNN rabbit
